@@ -1,0 +1,12 @@
+name: syncopy
+title:
+username:
+account: noahdasanaike
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2882009
+bundleId: 3672152
+url: https://noahdasanaike.shinyapps.io/syncopy/
+when: 1601080394.69104
+asMultiple: FALSE
+asStatic: FALSE
